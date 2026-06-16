@@ -1,0 +1,6 @@
+{
+  "servers": [
+    { "name": "Hypixel", "ip": "mc.hypixel.net",
+      "image": "https://static.wikia.nocookie.net/siivagunner/images/9/90/Hypixel.jpg/revision/latest?cb=20230613070336", "icon": "https://pbs.twimg.com/profile_images/1346968969849171970/DdNypQdN_400x400.png", "accent": "#f59e0b" }
+  ]
+}
