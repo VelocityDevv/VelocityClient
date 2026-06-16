@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "latest": { "legacy": "velocity-1.8.9" },
+  "versions": [
+    {
+      "id": "velocity-1.8.9",
+      "name": "VelocityClient 1.8.9",
+      "mcVersion": "1.8.9",
+      "latest": false,
+      "clientVersion": "1.0.0",
+      "loader": "forge",
+      "java": { "major": 8 },
+      "forge": {
+        "installerUrl": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.0.0/forge-1.8.9-installer.jar",
+        "sha256": "F9FDF4945CA02D73EC6CC46300942F4E199E4ADD068877D517157B3677563656"
+      },
+      "files": [
+        {
+          "phase": "client",
+          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.0.0/velocityclient-forge-1.8.9.jar",
+          "dest": "mods/1.8.9/velocityclient.jar",
+          "sha256": "A2966C404B9870587B3825B020CCA4FC0816013C073E3758C9AB536FCFCFF71D"
+        },
+        {
+          "phase": "natives",
+          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.0.0/mcef-natives-1.8.zip",
+          "dest": "VelocityClient/mcef/1.8",
+          "extract": true,
+          "sha256": "9FFA83E9E8E545B9491724AEFEA47496A6063FA7AD0A18E216ADD2194A435804"
+        }
+      ]
+    }
+  ]
+}
