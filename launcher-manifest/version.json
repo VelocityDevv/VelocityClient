@@ -26,7 +26,7 @@
           "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.0.0/mcef-natives-1.8.zip",
           "dest": "VelocityClient/mcef/1.8",
           "extract": true,
-          "sha256": "9FFA83E9E8E545B9491724AEFEA47496A6063FA7AD0A18E216ADD2194A435804"
+          "sha256": "7624BE60F87CA7BE87BEACBB74AA92DA6D62C6AF659D99A70B02F2834EA03871"
         }
       ]
     }
