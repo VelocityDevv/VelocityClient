@@ -1,0 +1,21 @@
+{
+  "news": [
+    {
+      "id": "launch-2026",
+      "title": "VelocityClient",
+      "date": "2026-06-11",
+      "image": "https://raw.githubusercontent.com/VelocityDevv/VelocityClient/main/launcher-manifest/assets/news-launch.png",
+      "excerpt": "The release of Velocity Client",
+      "url": ""
+    }
+  ],
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-06-11",
+      "notes": [
+        "Initial public release"
+      ]
+    }
+  ]
+}
