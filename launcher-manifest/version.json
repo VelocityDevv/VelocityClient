@@ -22,12 +22,6 @@
           "sha256": "11F3072EDC148FD8ADFEE5FB3F2807FF74B89F31405027FA8A1B62D9564D7614"
         },
         {
-          "phase": "client",
-          "url": "https://optifine.net/downloadx?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar&x=addb8c0fa0a413f743f3feaf5a765f8f",
-          "dest": "mods/1.8.9/OptiFine_1.8.9_HD_U_M6_pre2.jar",
-          "sha256": "D57B7FD7BD519BBE4FDBF36CCEEBFB64D459B7713E1AFB0BF6549C21B476A028"
-        },
-        {
           "phase": "natives",
           "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.0.0/mcef-natives-1.8.zip",
           "dest": "VelocityClient/mcef/1.8",
