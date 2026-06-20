@@ -2,10 +2,10 @@
   "news": [
     {
       "id": "launch-2026",
-      "title": "VelocityClient",
+      "title": "VELOCITY: OVERDRIVE",
       "date": "2026-06-11",
-      "image": "https://raw.githubusercontent.com/VelocityDevv/VelocityClient/main/launcher-manifest/assets/1_8_background.jpg",
-      "excerpt": "The release of Velocity Client",
+      "image": "https://raw.githubusercontent.com/VelocityDevv/VelocityClient/main/launcher-manifest/assets/released.png",
+      "excerpt": "Speed redefined. Experience the momentum.",
       "url": ""
     }
   ],
