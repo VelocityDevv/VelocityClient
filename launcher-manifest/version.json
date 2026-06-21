@@ -24,7 +24,7 @@
         {
           "phase": "client",
           "url": "https://optifine.net/downloadx?f=OptiFine_1.8.9_HD_U_M5.jar&x=d6b9f2cef33ed26ed61a92b7e9a4142b",
-          "dest": "mods/optifine.jar",
+          "dest": "mods/1.8.9/optifine.jar",
           "sha256": "2739760A70FCA6AE5C7DC817BCC6283F18F55E38FA23778DA7F387A6B724B2C4"
         },
         {
