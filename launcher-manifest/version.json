@@ -19,7 +19,7 @@
           "phase": "client",
           "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.0.0/velocityclient-forge-1.8.9.jar",
           "dest": "mods/1.8.9/velocityclient.jar",
-          "sha256": "11F3072EDC148FD8ADFEE5FB3F2807FF74B89F31405027FA8A1B62D9564D7614"
+          "sha256": "B1B194EBD0A8F4DE938CD6DE8BC012700AD292FC62E4403293AD04F8AB0D2796"
         },
         {
           "phase": "client",
