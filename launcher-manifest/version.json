@@ -7,7 +7,7 @@
       "name": "VelocityClient 1.8.9",
       "mcVersion": "1.8.9",
       "latest": false,
-      "clientVersion": "1.0.0",
+      "clientVersion": "1.0.1",
       "loader": "forge",
       "java": { "major": 8 },
       "forge": {
@@ -17,9 +17,9 @@
       "files": [
         {
           "phase": "client",
-          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.0.0/velocityclient-forge-1.8.9.jar",
+          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.0.1/velocityclient-forge-1.8.9.jar",
           "dest": "mods/1.8.9/velocityclient.jar",
-          "sha256": "B1B194EBD0A8F4DE938CD6DE8BC012700AD292FC62E4403293AD04F8AB0D2796"
+          "sha256": "764FBB858FA8C2FA9290D7920DA615FBDD4473D4976A01E99D89357652B2E9A6"
         },
         {
           "phase": "client",
