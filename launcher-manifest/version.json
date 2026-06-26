@@ -7,7 +7,7 @@
       "name": "VelocityClient 1.8.9",
       "mcVersion": "1.8.9",
       "latest": false,
-      "clientVersion": "1.0.1",
+      "clientVersion": "1.0.2",
       "loader": "forge",
       "java": { "major": 8 },
       "forge": {
