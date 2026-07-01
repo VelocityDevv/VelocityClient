@@ -1,6 +1,6 @@
 {
   "servers": [
     { "name": "Starmania", "ip": "play.starmaniamc.net",
-      "image": "https://cdn.discordapp.com/attachments/1192401227397476424/1480756099991863336/Adobe_Express_-_file_1.png?ex=6a467755&is=6a4525d5&hm=65b5f92fc593be63a2e4ddba7d1f8084bb0d5e54f057d3b6766573561999ac11&", "icon": "https://cdn.discordapp.com/attachments/1192401227397476424/1480756099991863336/Adobe_Express_-_file_1.png?ex=6a467755&is=6a4525d5&hm=65b5f92fc593be63a2e4ddba7d1f8084bb0d5e54f057d3b6766573561999ac11&", "accent": "#f59e0b" }
+      "image": "https://cdn.discordapp.com/attachments/1192401227397476424/1480756099991863336/Adobe_Express_-_file_1.png?ex=6a467755&is=6a4525d5&hm=65b5f92fc593be63a2e4ddba7d1f8084bb0d5e54f057d3b6766573561999ac11&", "icon": "https://cdn.discordapp.com/attachments/1192401227397476424/1480756099991863336/Adobe_Express_-_file_1.png?ex=6a467755&is=6a4525d5&hm=65b5f92fc593be63a2e4ddba7d1f8084bb0d5e54f057d3b6766573561999ac11&", "accent": "#1764ff" }
   ]
 }
