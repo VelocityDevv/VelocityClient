@@ -17,7 +17,7 @@
       "files": [
         {
           "phase": "client",
-          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.1.0/velocityclient-forge-1.8.9.jar",
+          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.2.0/velocityclient-forge-1.8.9.jar",
           "dest": "mods/1.8.9/velocityclient.jar",
           "sha256": "E35DCD1418CAB90023A3ADF0515EF5F2A92F76CBFEFE7C9C19D7C2DA0E1910EF"
         },
