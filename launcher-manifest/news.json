@@ -7,6 +7,22 @@
       "image": "https://raw.githubusercontent.com/VelocityDevv/VelocityClient/main/launcher-manifest/assets/released.png",
       "excerpt": "Speed redefined. Experience the momentum.",
       "url": ""
+    },
+    {
+      "id": "launcher-update-1.1.0",
+      "title": "HORIZON",
+      "date": "2026-07-01",
+      "image": "",
+      "excerpt": "New launcher design. New features out with more on the way!",
+      "url": ""
+    },
+    {
+      "id": "launcher-update-1.1.0",
+      "title": "PRINTER REDLINE",
+      "date": "2026-07-01",
+      "image": "",
+      "excerpt": "1.8.9 Addition: Added 360 printer, improved accuracy and speed!",
+      "url": ""
     }
   ],
   "changelog": [
