@@ -7,7 +7,7 @@
       "name": "VelocityClient 1.8.9",
       "mcVersion": "1.8.9",
       "latest": false,
-      "clientVersion": "1.3.0",
+      "clientVersion": "1.4.0",
       "loader": "forge",
       "java": { "major": 8 },
       "forge": {
@@ -17,7 +17,7 @@
       "files": [
         {
           "phase": "client",
-          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.3.0/velocityclient-forge-1.8.9.jar",
+          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.4.0/velocityclient-forge-1.8.9.jar",
           "dest": "mods/1.8.9/velocityclient.jar",
           "sha256": "9F407083E10D42974A9D7647AC74CA1890F6CDA4A20B26B4EC51049F97D45873"
         },
@@ -41,16 +41,22 @@
       "name": "VelocityClient 1.20.4",
       "mcVersion": "1.20.4",
       "latest": true,
-      "clientVersion": "1.3.0",
+      "clientVersion": "1.4.0",
       "loader": "fabric",
       "java": { "major": 17 },
       "fabric": { "loaderVersion": "0.15.11" },
       "files": [
         {
           "phase": "client",
-          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.3.0/velocityclient-fabric-1.20.4.jar",
+          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.4.0/velocityclient-fabric-1.20.4.jar",
           "dest": "mods/1.20.4/velocityclient.jar",
           "sha256": "5844F42536F0BBD54ADFCFED892341B7AC04FAE24FC5CBB12812C5C3519831DF"
+        },
+        {
+          "phase": "client",
+          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.4.0/Optifine-1.20.4.jar",
+          "dest": "mods/1.20.4/optifine.jar",
+          "sha256": "2739760A70FCA6AE5C7DC817BCC6283F18F55E38FA23778DA7F387A6B724B2C4"
         },
         {
           "phase": "client",
