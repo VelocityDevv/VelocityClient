@@ -48,7 +48,7 @@
       "files": [
         {
           "phase": "client",
-          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/1.3.0/velocityclient-fabric-1.20.4.jar",
+          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.3.0/velocityclient-fabric-1.20.4.jar",
           "dest": "mods/1.20.4/velocityclient.jar",
           "sha256": "0B164404EBDB005148FFBBCBC51F619F7C9727E99DEE7A3EC68439ABCD726A7A"
         },
