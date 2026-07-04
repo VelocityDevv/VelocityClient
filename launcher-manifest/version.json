@@ -7,7 +7,7 @@
       "name": "VelocityClient 1.8.9",
       "mcVersion": "1.8.9",
       "latest": false,
-      "clientVersion": "1.2.0",
+      "clientVersion": "1.3.0",
       "loader": "forge",
       "java": { "major": 8 },
       "forge": {
@@ -17,15 +17,46 @@
       "files": [
         {
           "phase": "client",
-          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.2.0/velocityclient-forge-1.8.9.jar",
+          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.3.0/velocityclient-forge-1.8.9.jar",
           "dest": "mods/1.8.9/velocityclient.jar",
-          "sha256": "E35DCD1418CAB90023A3ADF0515EF5F2A92F76CBFEFE7C9C19D7C2DA0E1910EF"
+          "sha256": "9F407083E10D42974A9D7647AC74CA1890F6CDA4A20B26B4EC51049F97D45873"
         },
         {
           "phase": "client",
           "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.0.0/optifine.jar",
           "dest": "mods/1.8.9/optifine.jar",
           "sha256": "2739760A70FCA6AE5C7DC817BCC6283F18F55E38FA23778DA7F387A6B724B2C4"
+        },
+        {
+          "phase": "natives",
+          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.0.0/mcef-natives-1.8.zip",
+          "dest": "VelocityClient/mcef/1.8",
+          "extract": true,
+          "sha256": "7624BE60F87CA7BE87BEACBB74AA92DA6D62C6AF659D99A70B02F2834EA03871"
+        }
+      ]
+    },
+    {
+      "id": "velocity-1.20.4",
+      "name": "VelocityClient 1.20.4",
+      "mcVersion": "1.20.4",
+      "latest": true,
+      "clientVersion": "1.3.0",
+      "loader": "fabric",
+      "java": { "major": 17 },
+      "fabric": { "loaderVersion": "0.15.11" },
+      "files": [
+        {
+          "phase": "client",
+          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/1.3.0/velocityclient-fabric-1.20.4.jar",
+          "dest": "mods/1.20.4/velocityclient.jar",
+          "sha256": "0B164404EBDB005148FFBBCBC51F619F7C9727E99DEE7A3EC68439ABCD726A7A"
+        },
+        {
+          "phase": "client",
+          "url": "https://maven.fabricmc.net/net/fabricmc/fabric-api/fabric-api/0.91.1+1.20.4/fabric-api-0.91.1+1.20.4.jar",
+          "dest": "mods/1.20.4/fabric-api-0.91.1+1.20.4.jar",
+          "sha256": "8E00BF5583D51BB559909E6F39629157FE63271EEE4D7A23A87C406B613DF6DD"
         },
         {
           "phase": "natives",
