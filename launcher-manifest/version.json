@@ -50,13 +50,7 @@
           "phase": "client",
           "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.4.0/velocityclient-fabric-1.20.4.jar",
           "dest": "mods/1.20.4/velocityclient.jar",
-          "sha256": "6ADF33C5E44B97F49AF6C43F40BB2AFF1FA39B7DECCA58F5A220D1E388C8ABCF"
-        },
-        {
-          "phase": "client",
-          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.4.0/Optifine-1.20.4.jar",
-          "dest": "mods/1.20.4/optifine.jar",
-          "sha256": "EECDBD9DEE45BA9C69361D1B7EDF728475035121A3C6FFCB4E240A644BB680A5"
+          "sha256": "FB76B2B85611104D84239E71AD09C82AF87DC70F12DDADA904FCF1DC8ED489DE"
         },
         {
           "phase": "client",
