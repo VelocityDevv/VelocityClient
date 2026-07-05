@@ -50,13 +50,85 @@
           "phase": "client",
           "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.4.0/velocityclient-fabric-1.20.4.jar",
           "dest": "mods/1.20.4/velocityclient.jar",
-          "sha256": "FB76B2B85611104D84239E71AD09C82AF87DC70F12DDADA904FCF1DC8ED489DE"
+          "sha256": "189BC791C678381C750FBFDA4D67A9CF4F57770CCF89BFF7C754C4AED7BFE435"
         },
         {
           "phase": "client",
           "url": "https://maven.fabricmc.net/net/fabricmc/fabric-api/fabric-api/0.91.1+1.20.4/fabric-api-0.91.1+1.20.4.jar",
           "dest": "mods/1.20.4/fabric-api-0.91.1+1.20.4.jar",
           "sha256": "8E00BF5583D51BB559909E6F39629157FE63271EEE4D7A23A87C406B613DF6DD"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/4GyXKCLd/sodium-fabric-0.5.8%2Bmc1.20.4.jar",
+          "dest": "mods/1.20.4/sodium-fabric-0.5.8+mc1.20.4.jar",
+          "sha256": "3c363ec0122157f65e55a8edf6545a60955091387cd0e94b3ecdcd64a93284f7"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/nMhjKWVE/lithium-fabric-mc1.20.4-0.12.1.jar",
+          "dest": "mods/1.20.4/lithium-fabric-mc1.20.4-0.12.1.jar",
+          "sha256": "6acd49595ee69e1264cfc79898f569452e41bd66985467fcb38d2804191af3cd"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/pguEMpy9/ferritecore-6.0.3-fabric.jar",
+          "dest": "mods/1.20.4/ferritecore-6.0.3-fabric.jar",
+          "sha256": "66984ee95c4ab05a83c437b0dd04568a4a2c8e7f219b7498604e25952c4cc125"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/1AeveXNt/c2me-fabric-mc1.20.4-0.2.0%2Balpha.11.72.jar",
+          "dest": "mods/1.20.4/c2me-fabric-mc1.20.4-0.2.0+alpha.11.72.jar",
+          "sha256": "c1407d932e9d09860204f712905eb1d33b27300cc559713e1267f253b5900db0"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/KuNKN7d2/versions/RmNpWBtf/noisium-fabric-2.3.0%2Bmc1.20.2-1.20.4.jar",
+          "dest": "mods/1.20.4/noisium-fabric-2.3.0+mc1.20.2-1.20.4.jar",
+          "sha256": "2b10c1b404c11a4109236c5fe3f3ec65516ab3c0b6aa2a1c725ae60809c5aff8"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/vSEH1ERy/versions/pc1QuN32/threadtweak-fabric-1.20.4-0.1.2.jar",
+          "dest": "mods/1.20.4/threadtweak-fabric-1.20.4-0.1.2.jar",
+          "sha256": "4e47a3fad59cb9aed52b68a96a7cff0ae4b00ee8e1a9f9acf03381f8bfb19e4d"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/rvBTLEjw/entityculling-fabric-1.7.2-mc1.20.4.jar",
+          "dest": "mods/1.20.4/entityculling-fabric-1.7.2-mc1.20.4.jar",
+          "sha256": "b99acb92de24d879a0bc28af96013f3ea9c0be5bdd50ad28d4a581a47be1a9b8"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/51shyZVL/versions/3m5znPWm/moreculling-1.20.4-0.24.0.jar",
+          "dest": "mods/1.20.4/moreculling-1.20.4-0.24.0.jar",
+          "sha256": "def2462c60576d0bb8dbec51a101fe2909d4c5d343150d5e5105a56bbc6bbfd5"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/OgI2Yf72/cullleaves-fabric-3.3.0.jar",
+          "dest": "mods/1.20.4/cullleaves-fabric-3.3.0.jar",
+          "sha256": "5371bd587d86da42d27358feee57a9d0b7cecfaced068dd21b6344b8c841003e"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/ZQ1iIvpY/BadOptimizations-2.2.1-1.20.2-20.4.jar",
+          "dest": "mods/1.20.4/BadOptimizations-2.2.1-1.20.2-20.4.jar",
+          "sha256": "1ea182d6112bbd130f214ee7f8acd3c950d88760ff2195662da1ab9b98522a40"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/xUOoKrs2/enhancedblockentities-0.10.1%2B1.20.4.jar",
+          "dest": "mods/1.20.4/enhancedblockentities-0.10.1+1.20.4.jar",
+          "sha256": "03cf1d724eb8e56df26a6442c83188b4a515d929dd4950f2e4479899b9c8c92a"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/2deYQULk/cloth-config-13.0.138-fabric.jar",
+          "dest": "mods/1.20.4/cloth-config-13.0.138-fabric.jar",
+          "sha256": "a4b0dc2b7f7822e7da6dfdff5f12ebf6435d73b8514250401e8b9405d6c1f56a"
         },
         {
           "phase": "natives",
