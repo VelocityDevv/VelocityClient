@@ -7,7 +7,7 @@
       "name": "VelocityClient 1.8.9",
       "mcVersion": "1.8.9",
       "latest": false,
-      "clientVersion": "1.4.0",
+      "clientVersion": "1.5.0",
       "loader": "forge",
       "java": { "major": 8 },
       "forge": {
@@ -17,9 +17,9 @@
       "files": [
         {
           "phase": "client",
-          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.4.0/velocityclient-forge-1.8.9.jar",
+          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.5.0/velocityclient-forge-1.8.9.jar",
           "dest": "mods/1.8.9/velocityclient.jar",
-          "sha256": "FB14E6A21C077E1310D3B1CF15BA84836B0DCD7526AA697BE518A1C885DA2465"
+          "sha256": "102F958E46F67B1A95D9545606DB10153B5EF79C2572F8F21F9D8322B151414C"
         },
         {
           "phase": "client",
@@ -41,16 +41,16 @@
       "name": "VelocityClient 1.20.4",
       "mcVersion": "1.20.4",
       "latest": true,
-      "clientVersion": "1.4.0",
+      "clientVersion": "1.5.0",
       "loader": "fabric",
       "java": { "major": 17 },
       "fabric": { "loaderVersion": "0.15.11" },
       "files": [
         {
           "phase": "client",
-          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.4.0/velocityclient-fabric-1.20.4.jar",
+          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.5.0/velocityclient-fabric-1.20.4.jar",
           "dest": "mods/1.20.4/velocityclient.jar",
-          "sha256": "189BC791C678381C750FBFDA4D67A9CF4F57770CCF89BFF7C754C4AED7BFE435"
+          "sha256": "DA289F3DE987E835138EEC92BDDFB06D81EFD25B05C1F8C160C1BB95C50114F0"
         },
         {
           "phase": "client",
