@@ -54,7 +54,7 @@
           "phase": "client",
           "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.6.0/velocityclient-fabric-1.18.2.jar",
           "dest": "mods/1.18.2/velocityclient.jar",
-          "sha256": "9481F9189C8A911246B237BD7706BF132554D94C2958824FB9553D85AE4A2028"
+          "sha256": "4FE64F08149C8C808CCF06EC2B717D0F82E434BB82AC2DF678162B7F461ADBCC"
         },
         {
           "phase": "client",
@@ -258,7 +258,7 @@
           "phase": "client",
           "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.6.0/velocityclient-fabric-1.21.11.jar",
           "dest": "mods/1.21.11/velocityclient.jar",
-          "sha256": "247D7B25937422F5AB63D08759BFA75B5795B0E29DAD6D101EF592D74B4F7B9F"
+          "sha256": "A33D669A233380D9A13B580C51CE03BBC5F36CE47AE1DFC38D5C32FF838F44C7"
         },
         {
           "phase": "client",
@@ -358,7 +358,7 @@
           "phase": "client",
           "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.6.0/velocityclient-fabric-26.2.jar",
           "dest": "mods/26.2/velocityclient.jar",
-          "sha256": "A4DBD471D97BA00FCE825C259A3F3FEC4F5123C96173A3461DC3DA7984D59A3C"
+          "sha256": "D269B32A606A3E33A3DD77B44DF58B699C6601EA5782EEB57455EA6A6030A587"
         },
         {
           "phase": "client",
