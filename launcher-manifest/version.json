@@ -138,6 +138,241 @@
           "sha256": "7624BE60F87CA7BE87BEACBB74AA92DA6D62C6AF659D99A70B02F2834EA03871"
         }
       ]
+    },
+    {
+      "id": "velocity-1.21.11",
+      "name": "VelocityClient 1.21.11",
+      "mcVersion": "1.21.11",
+      "latest": false,
+      "clientVersion": "1.6.0",
+      "loader": "fabric",
+      "java": {
+        "major": 21
+      },
+      "fabric": {
+        "loaderVersion": "0.19.3"
+      },
+      "files": [
+        {
+          "phase": "client",
+          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.6.0/velocityclient-fabric-1.21.11.jar",
+          "dest": "mods/1.21.11/velocityclient.jar",
+          "sha256": "247D7B25937422F5AB63D08759BFA75B5795B0E29DAD6D101EF592D74B4F7B9F"
+        },
+        {
+          "phase": "client",
+          "url": "https://maven.fabricmc.net/net/fabricmc/fabric-api/fabric-api/0.141.4+1.21.11/fabric-api-0.141.4+1.21.11.jar",
+          "dest": "mods/1.21.11/fabric-api-0.141.4+1.21.11.jar"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Ny3XyYle/sodium-fabric-0.8.13%2Bmc1.21.11.jar",
+          "dest": "mods/1.21.11/sodium-fabric-0.8.13+mc1.21.11.jar",
+          "sha256": "78d7b657406c2961e0a10d1d5c2703c519deb2030ec670163166f8a0a1152176"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/4EwhsTu7/ImmediatelyFast-Fabric-1.14.3%2B1.21.11.jar",
+          "dest": "mods/1.21.11/ImmediatelyFast-Fabric-1.14.3+1.21.11.jar",
+          "sha256": "c6e939744ed80345a1a70c351c481b8832d33970d6574b8d444dfe750abc2a86"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/sP0vNbeN/entityculling-fabric-1.10.5-mc1.21.11.jar",
+          "dest": "mods/1.21.11/entityculling-fabric-1.10.5-mc1.21.11.jar",
+          "sha256": "388e836774497645abe1d5dadb153561adcea9101ba72fe6f3801d718d691918"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/51shyZVL/versions/wOzykoLV/moreculling-fabric-1.21.11-1.6.2.jar",
+          "dest": "mods/1.21.11/moreculling-fabric-1.21.11-1.6.2.jar",
+          "sha256": "45e5e32cd33d38662db9fe45d15dc777c1503ac186522c4397d98c54ed0dda43"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/yrL6pwHZ/cullleaves-fabric-4.1.1.1%2B1.21.11.jar",
+          "dest": "mods/1.21.11/cullleaves-fabric-4.1.1.1+1.21.11.jar",
+          "sha256": "fc82497837bdb26d50468383da79fd12aecb2a51d09d94c892baaa55cd3829d3"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/Q3Dusz2j/BadOptimizations-2.4.1-1.21.11.jar",
+          "dest": "mods/1.21.11/BadOptimizations-2.4.1-1.21.11.jar",
+          "sha256": "91cec18c7d5b915e3d0700b65d93f246208ab835458ce06adb079bacb31306b5"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Ow7wA0kG/lithium-fabric-0.21.4%2Bmc1.21.11.jar",
+          "dest": "mods/1.21.11/lithium-fabric-0.21.4+mc1.21.11.jar",
+          "sha256": "5135c41da5b43cbdcb29424bde65195143ac4084e23834c8eac065942201c78b"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/Ii0gP3D8/ferritecore-8.2.0-fabric.jar",
+          "dest": "mods/1.21.11/ferritecore-8.2.0-fabric.jar",
+          "sha256": "f76bd760cbf48280cc7c43180f5089a46235fa24d934a8acf3da04a664c2c715"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/vSEH1ERy/versions/9t60vZ1h/threadtweak-fabric-0.1.8%2Bmc1.21.11.jar",
+          "dest": "mods/1.21.11/threadtweak-fabric-0.1.8+mc1.21.11.jar",
+          "sha256": "f2786ca8eada1b5dde877ea0bddcb11b1d3c7940272288b61768a1c9d7c15a18"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/Fab7e5Th/dynamic-fps-3.11.6%2Bminecraft-1.21.11-fabric.jar",
+          "dest": "mods/1.21.11/dynamic-fps-3.11.6+minecraft-1.21.11-fabric.jar",
+          "sha256": "42c6f5526acb29713969156018ab08ac921a0a0f37c2a79a39e3783792caa04f"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/xuX40TN5/cloth-config-21.11.153-fabric.jar",
+          "dest": "mods/1.21.11/cloth-config-21.11.153-fabric.jar",
+          "sha256": "8a40c84e5ecde525acfb6c4e13b8002dacfca3ef9534d7faf6e8049656f423c8"
+        },
+        {
+          "phase": "natives",
+          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.0.0/mcef-natives-1.8.zip",
+          "dest": "VelocityClient/mcef/1.8",
+          "extract": true,
+          "sha256": "7624BE60F87CA7BE87BEACBB74AA92DA6D62C6AF659D99A70B02F2834EA03871"
+        }
+      ]
+    },
+    {
+      "id": "velocity-1.18.2",
+      "name": "VelocityClient 1.18.2",
+      "mcVersion": "1.18.2",
+      "latest": false,
+      "clientVersion": "1.6.0",
+      "loader": "fabric",
+      "java": {
+        "major": 17
+      },
+      "fabric": {
+        "loaderVersion": "0.17.2"
+      },
+      "files": [
+        {
+          "phase": "client",
+          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.6.0/velocityclient-fabric-1.18.2.jar",
+          "dest": "mods/1.18.2/velocityclient.jar",
+          "sha256": "9481F9189C8A911246B237BD7706BF132554D94C2958824FB9553D85AE4A2028"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/qk28POfr/fabric-api-0.77.0%2B1.18.2.jar",
+          "dest": "mods/1.18.2/fabric-api-0.77.0+1.18.2.jar",
+          "sha256": "6f822fb5aa481b4a6c1cfb8612bbfecc62a58e69d2c792f61a0eafa580e75999"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar",
+          "dest": "mods/1.18.2/sodium-fabric-mc1.18.2-0.4.1+build.15.jar",
+          "sha256": "776fb3cd8c8ddee898eb1d9dc88a72d899aaa8792f21914b39ad990cea253784"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/ALnv7Npy/lithium-fabric-mc1.18.2-0.10.3.jar",
+          "dest": "mods/1.18.2/lithium-fabric-mc1.18.2-0.10.3.jar",
+          "sha256": "63db8a3503e0f0b497b904dfba210ca1cb4cfdcbbeda6beb827b35c968c66cd9"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/4.2.1/ferritecore-4.2.1-fabric.jar",
+          "dest": "mods/1.18.2/ferritecore-4.2.1-fabric.jar",
+          "sha256": "17651e8a18f88c58fa0dbcd462507899f8a0136b72da8fd7e5eb5ad95ba2260a"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/d3CbGntl/entityculling-fabric-1.6.1-mc1.18.2.jar",
+          "dest": "mods/1.18.2/entityculling-fabric-1.6.1-mc1.18.2.jar",
+          "sha256": "abe02599d3ea7a76616c214a02ee52cceb4c2f70685808151b40e1cbd9b4094a"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/51shyZVL/versions/v0.8.2-1.18/moreculling-1.18.2-0.8.2.jar",
+          "dest": "mods/1.18.2/moreculling-1.18.2-0.8.2.jar",
+          "sha256": "61c6d193e391ac8b1767127fa9f99e5bbe5a759759a7ddfdafedc71e96b86fe7"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.2/cullleaves-2.3.2.jar",
+          "dest": "mods/1.18.2/cullleaves-2.3.2.jar",
+          "sha256": "b4d8b8dd525afed2e929cb121212236229baa58a294e50510b2df376d342eb14"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/D73h6MNI/ImmediatelyFast-1.1.12%2B1.18.2.jar",
+          "dest": "mods/1.18.2/ImmediatelyFast-1.1.12+1.18.2.jar",
+          "sha256": "9bded09cd32e271cc241581b0e2d4adfa8f06135e44e8441ba82e9946b5e25d0"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/0.7.1%2B1.18.2/enhancedblockentities-0.7.1%2B1.18.2.jar",
+          "dest": "mods/1.18.2/enhancedblockentities-0.7.1+1.18.2.jar",
+          "sha256": "77b979605b211a85fe9b873351b9c6068a2cee131e4f30619bb3b03013517bac"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/FWumhS4T/versions/iy4eaYy2/smoothboot-fabric-1.18.2-1.7.0.jar",
+          "dest": "mods/1.18.2/smoothboot-fabric-1.18.2-1.7.0.jar",
+          "sha256": "d524061db522b918ed75e68dad263c79d914f84c3617b605847b198136a6c529"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/LJ5N4YSl/modernfix-fabric-5.18.0%2Bmc1.18.2.jar",
+          "dest": "mods/1.18.2/modernfix-fabric-5.18.0+mc1.18.2.jar",
+          "sha256": "c44c2565f8a30b99a1965aaa1ce0a9d2b32a22e782e04805b7aca9a4753524b0"
+        },
+        {
+          "phase": "client",
+          "url": "https://cdn.modrinth.com/data/NRjRiSSD/versions/5xvCCRjJ/memoryleakfix-fabric-1.17%2B-1.1.5.jar",
+          "dest": "mods/1.18.2/memoryleakfix-fabric-1.17+-1.1.5.jar",
+          "sha256": "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde"
+        },
+        {
+          "phase": "natives",
+          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.0.0/mcef-natives-1.8.zip",
+          "dest": "VelocityClient/mcef/1.8",
+          "extract": true,
+          "sha256": "7624BE60F87CA7BE87BEACBB74AA92DA6D62C6AF659D99A70B02F2834EA03871"
+        }
+      ]
+    },
+    {
+      "id": "velocity-26.2",
+      "name": "VelocityClient 26.2",
+      "mcVersion": "26.2",
+      "latest": false,
+      "clientVersion": "1.6.0",
+      "loader": "fabric",
+      "java": {
+        "major": 25
+      },
+      "fabric": {
+        "loaderVersion": "0.19.3"
+      },
+      "files": [
+        {
+          "phase": "client",
+          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.6.0/velocityclient-fabric-26.2.jar",
+          "dest": "mods/26.2/velocityclient.jar",
+          "sha256": "A4DBD471D97BA00FCE825C259A3F3FEC4F5123C96173A3461DC3DA7984D59A3C"
+        },
+        {
+          "phase": "client",
+          "url": "https://maven.fabricmc.net/net/fabricmc/fabric-api/fabric-api/0.155.0+26.2/fabric-api-0.155.0+26.2.jar",
+          "dest": "mods/26.2/fabric-api-0.155.0+26.2.jar"
+        },
+        {
+          "phase": "natives",
+          "url": "https://github.com/VelocityDevv/VelocityClient/releases/download/v1.0.0/mcef-natives-1.8.zip",
+          "dest": "VelocityClient/mcef/1.8",
+          "extract": true,
+          "sha256": "7624BE60F87CA7BE87BEACBB74AA92DA6D62C6AF659D99A70B02F2834EA03871"
+        }
+      ]
     }
   ]
 }
